@@ -1,2 +1,2 @@
-# Tildagon-Prusa-Link
-Monitor your prusa printer from the tildagon badge.
+Press enter to change the colours.
+Up and Down to change the speed.
